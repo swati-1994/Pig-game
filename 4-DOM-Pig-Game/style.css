@@ -20,10 +20,10 @@
 .final-score:focus{
     outline: none;
 }
-dice-1{
+#dice-1{
     top:120px;
 }
-dice-2{
+#dice-2{
     top:250px;
 }
 
